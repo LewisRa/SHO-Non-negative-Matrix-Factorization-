@@ -1,1 +1,1 @@
-# SHO-Non-negative-Matrix-Factorization-
+Non-negative-Matrix-Factorization= matlab-selected
